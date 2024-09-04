@@ -4,7 +4,7 @@ It takes match data as input & predicts whether or not the home team will win th
 
 The data was pulled from [this Kaggle page](https://www.kaggle.com/datasets/mhmdkardosha/premier-league-matches/data).
 
-The project contains two models trained on the said data:
+The project contains the following models trained on the said data:
   - Random forest
   - Decision tree
 
